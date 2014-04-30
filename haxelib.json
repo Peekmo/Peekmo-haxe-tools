@@ -1,0 +1,29 @@
+{
+    "name": "peekmo-haxe-tools",
+    "url": "https://github.com/Peekmo/Peekmo-haxe-tools",
+    "license": "MIT",
+    "tags": ["cross"],
+    "description": "Peekmo's haxe tools",
+    "version": "0.1.0",
+    "releasenote": "First releasenote",
+    "contributors": [
+        "Peekmo"
+    ],
+    "dependencies": {
+	
+    },
+    "requirements": [
+    	{
+    	    "name": "Cookix",
+    	    "type": "git",
+    	    "package": {
+    	       "path": "https://github.com/Peekmo/Cookix.git",
+    	       "branch": "develop"
+    	    }
+    	},
+    	{
+    	    "name": "monax",
+            "type": "haxelib"
+    	}
+    ]
+}
