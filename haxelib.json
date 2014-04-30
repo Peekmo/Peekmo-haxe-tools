@@ -30,7 +30,7 @@
             "type": "git",
             "version": "0.1.0",
             "repository": {
-               "path": "https://github.com/Peekmo/Haxelib-Fake.git",
+               "path": "https://github.com/Peekmo/Haxelib-Fake.git"
             }
         }
     ]
