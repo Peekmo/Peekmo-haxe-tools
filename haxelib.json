@@ -16,7 +16,7 @@
     	{
     	    "name": "Cookix",
     	    "type": "git",
-    	    "package": {
+    	    "repository": {
     	       "path": "https://github.com/Peekmo/Cookix.git",
     	       "branch": "develop"
     	    }
